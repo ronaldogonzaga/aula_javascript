@@ -1,3 +1,3 @@
 # Introdução ao Javascript
 ### Objetivo
-Treinamento de Javascript na plataforma DIO
+Diversas atividades e simulações de código Javascript
