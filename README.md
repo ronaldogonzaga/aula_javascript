@@ -1,2 +1,3 @@
 # Introdução ao Javascript
-Aula de Javascript DIO
+### Objetivo
+Treinamento de Javascript na plataforma DIO
